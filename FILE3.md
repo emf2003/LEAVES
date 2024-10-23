@@ -1,3 +1,3 @@
 ﻿# My Project
-Changes to file: this is named file 3. 
-My favorite color is pink. End of changes. 
+This is named file 3. 
+My favorite color is pink. 
